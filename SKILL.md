@@ -1,6 +1,6 @@
 ---
 name: contenido-viral
-description: Escribe guiones de contenido corto viral (reels, TikToks, shorts) que retienen y además venden, y valida las ideas antes de grabarlas. Fusiona el método de Víctor Heras (zona de convergencia, mecánica de guion, retención), el patrón de 4 pilares del Canal de Lima (Gancho, Historia, Moraleja, CTA), el framework Hook-Retain-Reward con las 3 P's y los frameworks de VSL, y los 13 patrones de viralidad del corpus de referentes. Actívalo SIEMPRE que se diga "contenido viral", "guion viral", "hazme un reel", "guion para un reel de X", "dame ganchos", "hook para este video", "ideas de videos virales", "por qué no pega mi contenido", "audita este guion", "mejora este guion", "estructura viral", "viral copy", "no me está funcionando el contenido", "qué grabo esta semana", "lote de guiones", "calendario de reels", "intro para mi video", "guion de VSL", "ideas de contenido para [nicho/cliente]", o cuando se pegue un guion o una idea pidiendo que retenga más. Diagnostica primero la IDEA (test 40-60), después escribe. Sirve para cualquier cuenta o nicho, propio o de cliente. NO confundir con `marca-personal` (contenido de Pedro anclado a su Neurona e historia real), `youtube-content` (guion de video largo del canal), `carrusel-studio` (carruseles de IG), `paquete-viral-youtube` (empaquetar un video ya grabado) ni `guiones-ads-clon-digital` (creativos de pauta pagada).
+description: Escribe guiones de contenido corto viral (reels, TikToks, shorts) que retienen y además venden, y valida las ideas antes de grabarlas. Fusiona el método de Víctor Heras (zona de convergencia, mecánica de guion, retención), el patrón de 4 pilares del Canal de Lima (Gancho, Historia, Moraleja, CTA), el framework Hook-Retain-Reward con las 3 P's y los frameworks de VSL, y los 13 patrones de viralidad del corpus de referentes. Actívalo SIEMPRE que se diga "contenido viral", "guion viral", "hazme un reel", "guion para un reel de X", "dame ganchos", "hook para este video", "ideas de videos virales", "por qué no pega mi contenido", "audita este guion", "mejora este guion", "estructura viral", "viral copy", "no me está funcionando el contenido", "qué grabo esta semana", "lote de guiones", "calendario de reels", "intro para mi video", "guion de VSL", "ideas de contenido para [nicho/cliente]", o cuando se pegue un guion o una idea pidiendo que retenga más. Diagnostica primero la IDEA (test 40-60), después escribe. Sirve para cualquier cuenta o nicho, propio o de cliente. NO confundir con `marca-personal` (contenido de la marca propia, anclado a su doctrina e historia real), `youtube-content` (guion de video largo del canal), `carrusel-studio` (carruseles de IG), `paquete-viral-youtube` (empaquetar un video ya grabado) ni `guiones-ads-clon-digital` (creativos de pauta pagada).
 ---
 
 # Contenido Viral
@@ -30,9 +30,11 @@ Necesitas 4 datos. Si no están en la consulta, pregúntalos en un solo mensaje 
 | **Objetivo** | Alcance, autoridad, leads o venta — cambia el reparto y el CTA |
 | **Materia prima** | ¿Hay historia real, dato, caso, o solo una opinión? |
 
-**Excepción:** si el trabajo es para la marca personal de Pedro, esta skill no manda. Lee
-`~/Documents/Obsidian Vault/marca-personal/neurona-2026/` y usa la skill `marca-personal`.
-Aquí se aplica el método a **cualquier** cuenta.
+**Excepción — la doctrina propia manda.** Si el trabajo es para una marca que ya tiene su propia
+fuente de verdad (una skill dedicada, una neurona o un documento de doctrina en la bóveda), esa
+manda sobre esta: léela primero y usa la skill de esa marca. En este proyecto eso significa que
+para la marca personal propia se usa `marca-personal`, no esta. Aquí se aplica el método a
+**cualquier otra** cuenta o cliente.
 
 ---
 
